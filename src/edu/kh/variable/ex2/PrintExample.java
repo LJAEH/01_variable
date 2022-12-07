@@ -29,7 +29,8 @@ public class PrintExample {
 		
 		//System.out.printf("패턴', 패턴에 들어갈 값);
 		
-		//System.out.printf("%d + %d = %d" , iNum1, iNum2, iNum1 + iNum2);
+		//
+		System.out.printf("%d + %d = %d" , iNum1, iNum2, iNum1 + iNum2);
 		
 		// printf도 print와 같이 개행이 되지않기 때문에
 		// \n과 같은 개행문자(escape)를 사용하여 다음줄로 개행 가능
